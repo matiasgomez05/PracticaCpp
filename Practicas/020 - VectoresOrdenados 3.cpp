@@ -62,7 +62,7 @@ void NotaAlumnos::imprimir()
     }
     cin.get();
 }
-
+/*
 int main()
 {
     NotaAlumnos na;
@@ -71,3 +71,4 @@ int main()
     na.imprimir();
     return 0;
 }
+*/
