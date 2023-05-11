@@ -60,6 +60,7 @@ void ListaRecursiva::imprimir(Nodo* reco)
     }
 }
 
+/*
 int main()
 {
     ListaRecursiva* lr = new ListaRecursiva();
@@ -70,3 +71,4 @@ int main()
     delete lr;
     return 0;
 }
+*/
