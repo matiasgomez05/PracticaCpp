@@ -181,6 +181,15 @@
     <ClCompile Include="052 - AtributosStatic 1.cpp" />
     <ClCompile Include="053 - AtributosStatic 2.cpp" />
     <ClCompile Include="054 - MetodosStatic 1.cpp" />
+    <ClCompile Include="055 - This.cpp" />
+    <ClCompile Include="056 - Define.cpp" />
+    <ClCompile Include="057 - Constantes 1.cpp" />
+    <ClCompile Include="058 - Constantes 2.cpp" />
+    <ClCompile Include="059 - Constantes 3.cpp" />
+    <ClCompile Include="060 - Referencia 1.cpp" />
+    <ClCompile Include="061 - Referencia 2.cpp" />
+    <ClCompile Include="062 - Parametros 1.cpp" />
+    <ClCompile Include="063 - ClaseString.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
